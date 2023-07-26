@@ -26,7 +26,7 @@ The project is built using the following technologies:
 INSTALLATION:
 Follow these steps to set up and run the application:
 
-1. Clone the repository: git clone https://github.com/jaintanisha0126/E_learning_website
+1. Clone the repository: git clone https://github.com/jaintanisha0126/E_Learning_Website.git
 2. Navigate to the project directory: cd elearning-website
 3. Install the dependencies: npm install
 4. Start the development server: npm start
